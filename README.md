@@ -8,23 +8,23 @@
 |Twitter|[@mmusasabi](https://twitter.com/mmusasabi)|
 |Qiita|[mmusasabi](https://qiita.com/mmusasabi)|
 
-## スキル
+## スキル、使用経験
 
 ### 言語
 
 |言語|年数|レベル感|
 |---|---|---|
-|日本語|年齢と一緒|（おそらく）ネイティブ|
-|英語|長い|触れ合ってきた期間は長いが、Google翻訳は未だに手放せない程度のレベル|
+|日本語|年齢|（おそらく）ネイティブ|
 |HTML/CSS|10年|学生の頃より趣味で利用しつづけ、実務でSEOを意識した構造でマークアップ出来る|
-|JavaScript|10年|学生の頃より趣味で利用しつづけ、実務でSEOを意識した構造でマークアップ出来る|
-|Ruby|4年|2.1~2.4を触った経験有り。実務レベルで利用可|
+|JavaScript|10年|学生の頃より趣味で利用していた。業務レベルで保守も踏まえコーディングできる|
+|Ruby|4年|v2.1~2.4を触った経験有り。業務で使っていた。|
 |PHP|4年|5.3~5.6を利用し、本番運用していたアプリケーションを7.1へバージョンアップした経験あり|
 |SQL|4年|基本的なSQLの操作や、サブクエリを使った効率的なクエリの作成が出来る|
-|Objective-c|半年|未経験から実務で[FC比較アプリ](https://apps.apple.com/jp/app/furanchaizu-bi-jiaonetto-du/id805369441)を作成|
-|Java|半年|FC比較アプリのAndroidアプリ制作で使用した。学生の頃より使ったことはあったが実務レベルで利用したのは半年ほど。アプリはすでにクローズした|
+|Objective-c|半年未満|リスト型のニュースアプリのようなものを作成できる程度|
+|Java|半年未満|リスト型のニュースアプリのようなものを作成できる程度|
 
 ### フレームワーク
+
 - Ruby on Rails（４年間くらい？ 4.0 〜 5.1 趣味で6B使ってます？）
 - Cake PHP（2.7）
   - EC cube（？）を使っておりましたー！
@@ -34,59 +34,75 @@
   - Vuex
   - Vuex-orm
 
-### その他
+### その他、使ったことあるものを羅列
 
-- AWS
-  - EC2, ELB, Lambda, SNS, WAF, API gateway, Route 53, Cloud watch, EBS, S3, RDS, SES, IAM, ACM, SMS, Elastic search, Elasti cache
-  - Mysql・Aurora
-  - ぽすぐれ
-- Send Grid
-- GCP（ちょっとだけよ！）
+|サービス|年数|備考|
+|---|---|---|
+|AWS|4年|EC2, ELB, Lambda, SNS, WAF, API gateway, Route 53, Cloud watch, EBS, S3, RDS, SES, IAM, ACM, SMS, Elastic search, Elasti cache等。 IAMなどの権限を意識しながらWebサービスを動かすためのサービスがある程度動かせる|
+|GCP|半年|既に運用されていたK8Sのシステムを保守するレベル。構築経験なし|
+|Send Grid|1年|APIを利用しメール送信などで利用|
+
+#### その他触ったことあるものメモ
+
+- git
 - Nginx
 - Unicorn
 - Redis
-- Memcache（使う？）
+- Memcache
 - puma
 - Apache
 - php-fpm
 - Docker
-  - k8s...？
 - Circle ci
 - Capistrano
 - itamae
 - Chef
 - SEO
-- git
-- デザイン思考
-
-## 強み
-
-- /dev/null
-
-## やったことはないが興味があるもの
-
-- /dev/null
 
 ## 職務経歴
 
 ### 2014/4- 2019/8 : 株式会社ベーシック
 
-#### formrun
+#### 2018-2019 formrun
 
-/dev/null
+https://form.run/
 
-#### マーケッターズストア
+簡単にフォームを作成し、データを管理できるツールサイト。
 
-/dev/null
+- 保守、運用、開発に従事
 
-#### ほんのり　Canvath
+#### 2018 マケスト
 
-/dev/null
+https://marketers-store.com/
 
-#### phocase オリジナルスマホケース販売サイト
+経営課題をかかえるマーケッターへ適切なツールを紹介する資料請求サイト
 
-/dev/null
+- 保守、運用、開発に従事
 
-#### フランチャイズ比較ネット
+#### 2017 Canvath
 
-/dev/null
+オリジナルグッズの受注生産を行うサイト
+
+- 保守、運用、開発に従事
+
+#### 2015-2018 phocase オリジナルスマホケース販売サイト
+
+スマホケースを取り扱う受注生産を行うECサイト
+
+- 保守、運用、開発業務に従事
+
+#### 2014-2015 フランチャイズ比較ネット
+
+https://www.fc-hikaku.net/
+
+- 保守、運用、開発業務に従事
+- リニューアル作業に従事
+- アプリを制作
+  - [FC比較アプリ](https://apps.apple.com/jp/app/furanchaizu-bi-jiaonetto-du/id805369441)
+
+
+## 参考
+
+[職務経歴書をGitHubで管理しよう](https://qiita.com/okohs/items/abcad0b4aefa585bc50b)
+
+https://github.com/okohs/Curriculum-Vitae-template
